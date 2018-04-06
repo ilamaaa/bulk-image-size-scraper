@@ -1,0 +1,4 @@
+Need to install selenium for python
+Python 3.+
+
+The main use for this is seeing if you can reduce images sizes on sites through cropping as opposed to compression.
